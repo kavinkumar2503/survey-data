@@ -1,0 +1,12 @@
+{
+  "fullName": {
+    "target": ["name.first", "name.last"],
+    "splitBy": " "
+  },
+  "age": {
+    "target": "yearsOld"
+  },
+  "location": {
+    "target": "city"
+  }
+}
